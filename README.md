@@ -23,5 +23,5 @@ TABLE OF CONTENT:
 1. html file
 2. css file
 3. css file (phone)
-4. (Deskstop) Display Video
+4. (Desktop) Display Video
 5. (Mobile) Display Video
