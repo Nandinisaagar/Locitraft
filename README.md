@@ -14,7 +14,7 @@ It is a fun stress buster bot, do check it out!
 
 Table of contents:
 
-Readme file
-main.py
-Output display video.
-pyvenv.cfg (configuration file)
+1. Readme file
+2. main.py
+3. Output display video.
+4. pyvenv.cfg (configuration file)
